@@ -27,7 +27,7 @@ See also the list of [contributors](https://github.com/daynova/LogPoint/contribu
 
 ## License
 
-This project is licensed under the GNU GENERAL PUBLIC LICENSE version 3.0 - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU GENERAL PUBLIC LICENSE version 3.0 - see the [LICENSE.md](https://github.com/daynova/LogPoint/blob/master/LICENSE) file for details
 
 ## Acknowledgments
 
